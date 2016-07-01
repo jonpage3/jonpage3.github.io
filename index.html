@@ -3,10 +3,10 @@ layout: default
 ---
 
 {% include header.html %}
-<div class="portfolio">
+<div class="blog">
     <h1>Stories</h1>
     <ul>
-        {% for story in site.posts %}
+        {% for post in site.posts %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
