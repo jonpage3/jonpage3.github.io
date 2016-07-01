@@ -6,9 +6,9 @@ layout: default
 <div class="portfolio">
     <h1>Stories</h1>
     <ul>
-        {% for websites in site.data.websites %}
+        {% for story in site.stories %}
         <li>
-            <a href="{{ websites.url }}">{{ websites.url }}</a>
+            <a href="{{ stories.url }}">{{ stories.title }}</a>
         </li>
         {% endfor %}
     </ul>
