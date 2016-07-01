@@ -6,7 +6,7 @@ layout: default
 <div class="blog">
     <h1>Stories</h1>
     <ul>
-        {% for post in site.posts %}
+        {% for post in site.posts.stories %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
