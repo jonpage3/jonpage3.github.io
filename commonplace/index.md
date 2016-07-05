@@ -11,3 +11,12 @@ Ooze back try worsen blanks. Those then when nohow on. Unsay then all gone. All 
 **Flaubert, from a July vacation in Vichy**
 here the heat is one great fart-blast.  Mercury plus humidity means sweat-through clothes; underwear wringing wet; trickle-trickle between ass-cheeks; underarms phew!; shoes hell on feet; skin scorched; air stifling, gasp making, murderous. Frantically oppressive; the only breeze the panting of human breasts; every bourgeois metamorphosed into a hot-air furnace ... In short, the brain melts and animal spirits are disordered.  I feel as flabby as a dog's prick after coitus....
 
+**Johnson**
+
+![Samuel Johnson](https://upload.wikimedia.org/wikipedia/commons/2/20/Samuel_Johnson_by_Joshua_Reynolds.jpg)
+
+
+
+
+
+
