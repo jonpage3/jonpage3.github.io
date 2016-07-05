@@ -6,7 +6,7 @@ layout: commonplace
 
 # Georg Christoph Lichtenberg
 
-## from the waste books
+**from the waste books**
 
 Do we write books so that they shall merely be read? Don't we also write them for employment in the household? For one that is read from start to finish, thousands are leafed through, other thousands lie motionless, others are jammed against mouseholes, thrown at rats, others are stood on, sat on, drummed on, have gingerbread baked on them or are used to light pipes.
 
@@ -18,11 +18,12 @@ The American who first discovered Columbus made a bad discovery.
 
 We do not think good metaphors are anything very important, but I think that a good metaphor is something even the police should keep an eye on... 
 
+![beckett](http://payload.cargocollective.com/1/0/128/523480/BECKETT.jpg)
 
-
-# worstward ho:
+# Worstward Ho:
 Ooze back try worsen blanks. Those then when nohow on. Unsay then all gone. All not gone. Only nohow on. All not gone and nohow on. All there as now when somehow on. The dim. The void. The shades. Only words gone. Ooze gone. Till ooze again and on. Somehow ooze on. 
 
+![flaubert](https://www.desitinpharma.com/fileadmin/user_upload/de/Kunstforum/Beruehmte_Epilepsiekranke/giraud_charge_2.jpg)
 
 # Flaubert's letters 
 **from a July vacation in Vichy:**
