@@ -2,6 +2,22 @@
 layout: commonplace
 ---
 
+![Lichtenberg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Georg_Christoph_Lichtenberg2.jpg/658px-Georg_Christoph_Lichtenberg2.jpg)
+
+# Georg Christoph Lichtenberg
+
+## from the waste books
+
+Do we write books so that they shall merely be read? Don't we also write them for employment in the household? For one that is read from start to finish, thousands are leafed through, other thousands lie motionless, others are jammed against mouseholes, thrown at rats, others are stood on, sat on, drummed on, have gingerbread baked on them or are used to light pipes.
+
+Nowadays three witty turns of phrase and a lie make a writer. 
+
+If countries were named after the words you first hear when you go there, England would have to be called Damn It.
+
+The American who first discovered Columbus made a bad discovery. 
+
+We do not think good metaphors are anything very important, but I think that a good metaphor is something even the police should keep an eye on... 
+
 
 
 **worstward ho:**
