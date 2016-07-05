@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: another test
 tag: 🍞
 category: blog
 ---
