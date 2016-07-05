@@ -56,6 +56,7 @@ After climbing back in the wagon, Sheets said “They sure anxious for some wate
   >“Gentlemen, pleasure to meet ye.”  
   
   Before he left he grabbed Sheets close and whispered, “Take em over to the water pump and troughs and don’t let em stop drinkin until right when you take em to get weighed.”  
+  
   He proceeded toward the tavern carrying his dark brown briefcase.  In the tavern’s large room were drovers, cattlemen, butchers, and others passing the time before the main auction, most of them acquaintances of Brazilaar.  He called out first to the auctioneer.
   
   >“Mr Gardner, I want ye to make sure you appraise my steers correctly, prime cattle such as these take a sight of time and fodder to fatten.  And Sheriff Dickson, go easy on that peach brandy, we gotta long day ahead of us.”
