@@ -36,7 +36,6 @@ The soft pink pad at the end of the finger flushed as he pinched the flesh below
 
 Ben’s prestige suddenly appeared of an enormous and swollen importance to him.  He must not endanger it any more.  He must try to obliterate what had happened.  With a gruesome clearness he saw that nothing changed.  It was still necessary to behave in the ordinary way.
 
-
 ![beckett](http://payload.cargocollective.com/1/0/128/523480/BECKETT.jpg)
 
 # Worstward Ho:
@@ -64,6 +63,16 @@ What vanity, all Poetics, all works of criticism!  The complacency of the gentle
 
 **From a letter to James Boswell Saturday, 16 November 1776:**  
 I had great pleasure in hearing that you are at last on good terms with your father. Life is but short; no time can be afforded but for the indulgence of real sorrow, or contests upon questions seriously momentous. Let us not throw away any of our days upon useless resentment, or contend who shall hold out longest in stubborn malignity. It is best not to be angry; and best, in the next place, to be quickly reconciled. May you and your father pass the remainder of your time in reciprocal benevolence!  
+
+**Prayer on his 64th birthday:**
+
+On last Saturday was my sixty fourth birthday. I might perhaps have forgotten it had not Boswel told me of it, and, what pleased me less, told the family at Dunvegan
+
+The last year is added to those of which little use has been made. I tried in the summer to learn Dutch, and was interrupted by an inflammation in my eye. I set out in August on this Journey to Skie. I find my memory uncertain, but hope it is only by a life immethodical and scattered. Of my body I do not perceive that exercise, or change of air has yet either en- creased the strength or activity. My Nights are still disturbed by flatulencies.
+
+My hope is, for resolution I dare no longer call it, to divide my time regularly, and to keep such a journal of my time, as may give me comfort in reviewing it. But when I consider my age, and the broken state of my body, I have great reason to fear lest Death should lay hold upon me, while I am yet only designing to live. But I have yet hope.
+
+Almighty God, most merciful Father, look down upon me with pity ; Thou hast protected me in childhood and youth, support me, Lord, in my declining years. Preserve me from the dangers of sinful presumption. Give me, if it be best for me, stability of purposes, and tranquillity of mind. Let the year which I have now begun, be spent to thy glory, and to the furtherance of my salvation. Take not from me thy holy Spirit, but as Death approaches, prepare me to appear joyfully in thy presence for the sake of Jesus Christ our Lord. Amen.
 
 
 
