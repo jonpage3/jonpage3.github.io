@@ -62,6 +62,14 @@ Through all the lying days of my youth
 I swayed my leaves and flowers in the sun.  
 Now I may wither into the truth.*
 
-              *****
+Dead the crickets are in October.  
+Sun-burnt face pale in Spring.  
+The tired feet will rest tomorrow,  
+After this is where we cling.
+
+And it will, in its own way, in the end  
+Become meaningless to you ---  
+The interest in growing older,  
+The new breed.
 
 
