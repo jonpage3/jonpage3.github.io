@@ -18,6 +18,25 @@ The American who first discovered Columbus made a bad discovery.
 
 We do not think good metaphors are anything very important, but I think that a good metaphor is something even the police should keep an eye on... 
 
+![denton welch](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denton_Welch,_Self-Portrait.jpg/220px-Denton_Welch,_Self-Portrait.jpg)
+
+![harlequin](http://c252289.r89.cf3.rackcdn.com/18574.jpg)
+
+# Denton Maurice Welch
+
+**from In Youth is Pleasure**
+
+Once in a field full of buttercups he had trodden in a cow-pat.  He had looked down at his foot which had broken through the hardened outer crust.  It lay in a trough lined with darkest richest green.
+
+He saw that his brother’s friend’s face was covered with scars.  It was a charming face, pale oatmeal colour, with glossy eyebrows; but the bone-white or pencil-blue lines wove a strange pattern on top of this creaminess.  He seemed a gentle person, very masculine and dumb.
+
+The man’s legs suddenly glinted like silk; the sun had caught the golden hairs, making the ordinary human legs look glossy and vigorous like those of a wild animal.
+
+The soft pink pad at the end of the finger flushed as he pinched the flesh below.
+
+Ben’s prestige suddenly appeared of an enormous and swollen importance to him.  He must not endanger it any more.  He must try to obliterate what had happened.  With a gruesome clearness he saw that nothing changed.  It was still necessary to behave in the ordinary way.
+
+
 ![beckett](http://payload.cargocollective.com/1/0/128/523480/BECKETT.jpg)
 
 # Worstward Ho:
@@ -34,6 +53,9 @@ Once there, I swear I'm going to go in for some monstrous debauches, to restore 
 
 **on research for Salammbo:**  
 The military art of the ancients makes my head swim; I'm stuffed with it; I vomit catapults, have hoisting machines up my ass, and piss scorpions.
+
+**on critics**  
+What vanity, all Poetics, all works of criticism!  The complacency of the gentlemen who produce such things flabbergasts me!  Oh!  nothing daunts those numbskulls! 
 
 
 # **Johnson**
