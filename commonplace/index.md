@@ -64,7 +64,7 @@ What vanity, all Poetics, all works of criticism!  The complacency of the gentle
 **From a letter to James Boswell Saturday, 16 November 1776:**  
 I had great pleasure in hearing that you are at last on good terms with your father. Life is but short; no time can be afforded but for the indulgence of real sorrow, or contests upon questions seriously momentous. Let us not throw away any of our days upon useless resentment, or contend who shall hold out longest in stubborn malignity. It is best not to be angry; and best, in the next place, to be quickly reconciled. May you and your father pass the remainder of your time in reciprocal benevolence!  
 
-**Prayer on his 64th birthday:**
+**Prayer on his 64th birthday:**  
 Talisker in Skie, Sept. 24, 1773.
 
 On last Saturday was my sixty fourth birthday. I might perhaps have forgotten it had not Boswel told me of it, and, what pleased me less, told the family at Dunvegan
