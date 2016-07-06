@@ -14,7 +14,7 @@ Robert is a poet who became a friend of mine several years ago. When I first had
 
 *My name is Robert Dylan and I'm a 43 year old poet, originally from Vancouver but currently residing in El Paso, Texas with my two dogs (both collies) Rex and Tex.  My favorite poets are Thomas Hardy, Lowell and the early (english) Auden.  More importantly my favorite sport is hockey (obviously) and my favorite meal is sloppy joe with applesauce. I've been writing poetry since I was 17 and though I've been published infrequently, the thrill of creation hasn't left --- I'm afraid it never will --- and I'm constantly searching for new venues where I can showcase my work.  And I would greatly appreciate it if you would consider one of my poems for your magazine.--Robert Dylan*
 
-Although the magazine he alludes to folded before we could publish his work, I'm sure he has no ill feelings now that he has such a prominent position on my website. 
+Although the magazine he alludes to folded before we could publish his work, I'm sure he harbors no grudge now that he has such a prominent position on my website. 
 
 # Links:
 Songs: Hezekiah Lemuel Dobbin soundcloud page. A musical project I started in 2016.   
