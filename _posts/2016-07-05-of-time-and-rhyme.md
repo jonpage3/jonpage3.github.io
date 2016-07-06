@@ -98,5 +98,24 @@ The vision’s closure comes, slowly comes nearer.
 
 # V
 
-**
+**They**
+They slam the doors, their dumb bloated questions  
+They slam the doors,
+                                   and reclaim the function  
+To yield our age and face old stodgy bores.
+
+No pleasure in hating these college years
+No pleasure in hating
+                                   insipid tears
+That squeeze our blood out a wooden grating.
+
+We could not flee fetid waste passersby 
+We could not flee
+                             they lick our smartness dry,
+Hang us on boughs of their firm rooted tree. 
+
+They search to kill our life’s discrete statement
+They search to kill
+                              we hide in the casement 
+And await the stranger’s promise to fulfill. 
 
