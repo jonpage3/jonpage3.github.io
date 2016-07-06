@@ -120,3 +120,60 @@ They search to kill
 we hide in the casement   
 And await the stranger’s promise to fulfill. 
 
+# VI
+
+**Kept**
+
+A forest, not only a body of trees,  
+Resonates with a past’s ponds in isolation,  
+Rising, to complicate a blunder.  
+
+Digging out the darnels has rooted out the wheat.
+
+Letting it all go, the salt of Winter’s mood,  
+Is a mess toppling over, smothered under. 
+
+# VII
+
+**This Dogged Route**
+
+In Persephone’s garden   
+She tends poppies fertile dead.  
+Gateside placed the warden,  
+He screams: “Sleep before you’re fed!”  
+Limbless Persephone plays  
+Melodies meant for mine ears,  
+A wish for dirt sleep in days,  
+Gathers no blunt sheafs of years.  
+Knowing how it all plays out.  
+And where it leads. Still it remains,  
+Must go on, this dogged rout,  
+Though the newfound pleasure’s pain  
+Would be better off not finding.  
+What sack of life awaits the grinding?
+
+# VIII
+
+**Ode**
+
+Stretch his warm spirit in the air longer   
+In tonight’s pleasant vices which plague him.   
+Abides the rank ripeness of the stronger,  
+Though it is time he tastes his loosened phlegm.  
+Fog stands in the way of his concubine,  
+The art of vile things smells the conjunction  
+Doubtful and worn, no way of connecting  
+The broken stones to make the singing line,  
+Breathe in an inspired test, serve the function,  
+Create the question of pure selecting. 
+
+Pierced time, the first breath makes him wail and cry.  
+And then the withered remains in ash trays,  
+Tongue smell of the shameful morning pigsty,  
+Knife in head, knows well the hangover daze.  
+Splattered book leaves cut and lie not there yet,  
+The closed door, chartreuse table cloth stained  
+By last night’s blood, viewed from coffins, finished,  
+The work is -- he unlaced the tangled net.  
+Drank the stale water for which he bargained,  
+Never perfect therefore never blemished.
