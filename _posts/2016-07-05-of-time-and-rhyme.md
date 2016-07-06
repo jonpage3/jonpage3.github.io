@@ -53,5 +53,15 @@ Them for future acts of beginning.
 Speak, I heard speak the other day:  
 The way you lost and the new way. 
 
+# III
+
+**Nuances of a Theme by W.B. Yeats**
+
+*Though leaves are many the root is one;  
+Through all the lying days of my youth  
+I swayed my leaves and flowers in the sun.  
+Now I may wither into the truth.*
+
+              *****
 
 
