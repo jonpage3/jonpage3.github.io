@@ -110,7 +110,7 @@ No pleasure in hating
 insipid tears  
 That squeeze our blood out a wooden grating.
 
-We could not flee fetid waste passersby 
+We could not flee fetid waste passersby   
 We could not flee  
 they lick our smartness dry,  
 Hang us on boughs of their firm rooted tree. 
