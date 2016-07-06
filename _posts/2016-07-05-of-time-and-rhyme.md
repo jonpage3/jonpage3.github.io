@@ -72,4 +72,31 @@ Become meaningless to you ---
 The interest in growing older,  
 The new breed.
 
+# IV
+
+**Distraction**
+
+The cold trend tapers down. He rips his gloves,  
+Neglects the codes on whitewashed walls to write  
+The lines he traces and the lines he loves. 
+
+Believes no great secret drapes frozen sight.  
+Lends an ear-lined vision to burned hands,  
+Moving to see, and grandly cuts the light.
+
+Drifting for waves admired from high strand,  
+He embarks the much discussed song-filled mission,  
+Attempting a thoughtless gesture, a new land.
+
+The only problem being the poison  
+Which is his thinking. Thought will be clearer  
+When they have flattened his cushion:
+
+This failed business of being a mirror.  
+Lock the doors, turn on the light above.  
+The vision’s closure comes, slowly comes nearer.  
+
+# V
+
+**
 
