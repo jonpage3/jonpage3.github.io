@@ -19,7 +19,7 @@ Although the magazine he alludes to folded before we could publish his work, I'm
 # Links:
 Songs: Hezekiah Lemuel Dobbin soundcloud page. A musical project I started in 2016.   
 
-Commonplace: An attempt by me to post a commonplace book on a webpage. Passages from books I have read and liked enough to jot down, and for some reason care to share.Commonplace
+Commonplace: An attempt by me to post a commonplace book on a webpage. Passages from books I have liked enough to jot down, and for some reason care to share.
 
 # Contact:
 jonpage3@gmail.com 
