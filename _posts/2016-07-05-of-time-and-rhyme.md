@@ -102,7 +102,7 @@ The vision’s closure comes, slowly comes nearer.
 
 They slam the doors, their dumb bloated questions  
 They slam the doors,  
-____________________________and reclaim the function    
+                        and reclaim the function    
 To yield our age and face old stodgy bores.
 
 No pleasure in hating these college years
