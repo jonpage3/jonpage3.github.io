@@ -24,4 +24,34 @@ Though untrue it construes objects for my reaving.
 The ending is the beginning is the giving.   
 Between these two poles is where he tries his living.
 
+# II
+
+**Confusion in Beginning**
+
+Speak, I heard speak the other day.  
+Speak loud: style is a manner of thinking.    
+The way you lost and the new way. 
+
+It is not enough to avoid a stay.  
+The poison remains, stills the drinking.  
+Speak, I heard speak the other day
+
+Of the path to moving on and flays  
+The old skin, leaves the corpse stinking.  
+The way you lost and the new way.
+
+The emptiness of a past portrays  
+What only blind eyes get by blinking.  
+Speak, I heard speak the other day
+
+Of remembering what we may  
+Remember. I can’t forget the ending,  
+The way you lost and the new way. 
+
+Keep this stack of notes and parlay  
+Them for future acts of beginning.  
+Speak, I heard speak the other day:  
+The way you lost and the new way. 
+
+
 
