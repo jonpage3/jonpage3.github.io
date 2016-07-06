@@ -75,6 +75,8 @@ My hope is, for resolution I dare no longer call it, to divide my time regularly
 
 Almighty God, most merciful Father, look down upon me with pity ; Thou hast protected me in childhood and youth, support me, Lord, in my declining years. Preserve me from the dangers of sinful presumption. Give me, if it be best for me, stability of purposes, and tranquillity of mind. Let the year which I have now begun, be spent to thy glory, and to the furtherance of my salvation. Take not from me thy holy Spirit, but as Death approaches, prepare me to appear joyfully in thy presence for the sake of Jesus Christ our Lord. Amen.
 
+**From Boswell's Life of Johnson**  
+We talked of change of manners. Dr Johnson observed, that our drinking less than our ancestors was owing to the change from ale to wine. 'I remember,' said he, 'when all the DECENT people in Lichfield got drunk every night, and were not the worse thought of. Ale was cheap, so you pressed strongly. When a man must bring a bottle of wine, he is not in such haste. Smoking has gone out. To be sure, it is a shocking thing, blowing smoke out of our mouths into other people's mouths, eyes, and noses, and having the same thing done to us. Yet I cannot account, why a thing which requires so little exertion, and yet preserves the mind from total vacuity, should have gone out. Every man has something by which he calms himself: beating with his feet, or so. [Footnote: Dr Johnson used to practice this himself very much.] I remember when people in England changed a shirt only once a week
 
 
 
