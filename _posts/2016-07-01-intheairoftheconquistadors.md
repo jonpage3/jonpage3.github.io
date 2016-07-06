@@ -64,7 +64,7 @@ Paullu's example and accept wherever
 the rocks settle.  Everyone should know  
 this war is futile.  Yet one can  
 never resist the likeness of this or that  
-attribute. and conversations continue   
+attribute, and conversations continue   
 to the Rio de la Plata, looking   
 for silver, only circling back, with   
 emotions de Orellana must have felt,  
