@@ -1,0 +1,27 @@
+---
+layout: post
+title: of time and rhyme
+tag: 🍞
+category: blog
+---
+
+# I
+
+**End**
+
+The ending is the beginning is the ending.   
+Between these two poles is where his home is standing. 
+
+Is where and is when his heart begins its beating  
+Within walls of time with echoes which are fleeting.
+
+From contradiction a question is grown breathing,  
+Lays a flat land of answers entombed and wreathing.  
+
+Choosing one births first steps, amounts in believing,  
+Though untrue it construes objects for my reaving. 
+
+The ending is the beginning is the giving.   
+Between these two poles is where he tries his living.
+
+
