@@ -177,3 +177,46 @@ By last night’s blood, viewed from coffins, finished,
 The work is -- he unlaced the tangled net.  
 Drank the stale water for which he bargained,  
 Never perfect therefore never blemished.
+
+# IX
+
+**Motives**
+
+Habit has inured your last fallen fruit.  
+Left behind before bitten, paid no mind  
+Sat rotting, spoiled before timely stewed. 
+
+No sense of an ending was never kind,   
+Your aged blue eyed boy has crumbled  
+To the point desire begged to be blind. 
+
+In that corner no act but he fumbled,  
+He missed the terror of loss known long,  
+But no steady rail when all have stumbled
+
+So he chose to speak to himself in song.  
+It occupied him, he said it was fun,  
+If finished quickly it couldn’t go wrong. 
+
+So that’s what this is: a masked quiet hum;  
+It makes us better, makes our pain mute--  
+A useful fiction if lost I’d be done. 
+
+# X
+
+**Begin**
+
+I’ve changed is what he says he said he said.  
+Already beginning the old story.
+
+That weapon requires no created lead,  
+If resolutions dampen down their hurry.
+
+But this too was futile instruction,  
+Another hopeless arc capturing time
+
+To tell you what it meant from its destruction.  
+Release your concern whether the moments rhyme.
+
+Outside will go on, go on, doesn’t die,  
+But will a home emerge where he can say I?
