@@ -36,6 +36,14 @@ The soft pink pad at the end of the finger flushed as he pinched the flesh below
 
 Ben’s prestige suddenly appeared of an enormous and swollen importance to him.  He must not endanger it any more.  He must try to obliterate what had happened.  With a gruesome clearness he saw that nothing changed.  It was still necessary to behave in the ordinary way.
 
+![errolflynn](http://ia.media-imdb.com/images/M/MV5BMTI4MzA4NTY5NV5BMl5BanBnXkFtZTcwMDc5OTgyMQ@@._V1_UY317_CR1,0,214,317_AL_.jpg)
+
+# Errol Flynn - My Wicked, Wicked Ways
+*Setting: Bankrupt, Flynn is on his yacht, the Zaca, sailing around the Mediterranean to avoid paying bills.*  
+Years before, I had begun drinking steadily, daily -- about a fifth of vodka a day, maybe more. Now I extended and deepened this recreation. Why didn't I tire of it? Why did most other things pall on me, but vodka never? Intermittently I played around with the celebrity set at the cosmopolitan centres, or one or two came to visit me on the Zaca. I had an occasional brawl in a bar -- they were getting less frequent now -- and generally I lived the life of a guy who is washed up.  
+I believe I was washed up, finished. 
+I had a little kit that I carried around. It was about the size of a medical kit. On it were the words FLYNN ENTERPRISES. Only I knew that inside of it was a tidy bar, with a bottle of vodka, two or three glasses and a bottle or two of quinine water. I had acquired a bible at last and I carted it around with me. 
+
 ![beckett](http://payload.cargocollective.com/1/0/128/523480/BECKETT.jpg)
 
 # Worstward Ho:
