@@ -9,6 +9,8 @@ and Samuel Clarke, a supporter of Isaac Newton. ![newton](https://upload.wikimed
 
 It has been a while so I don't entirely remember what the paper is about, but I think it has something to do with Leibniz's philosophical foundations for physical science, and how it appears in a prominent debate with a Newtonian.   
 
-I have posted the document in various file formats. I began with a markdown version of my document, and converted it to html, odt, by using the following bash script: [script](https://raw.githubusercontent.com/inls161/assignment-3-convert-some-documents-jonpage3/master/jonpage3-convert-docs.sh)
+I have posted the document in various file formats. I began with a markdown version of my document, and converted it to html, odt, by using the following [bash script](https://raw.githubusercontent.com/inls161/assignment-3-convert-some-documents-jonpage3/master/jonpage3-convert-docs.sh)
 
-* PDF version: [pdf](Leibniz-Newton-final-paper.pdf)
+*  [pdf](file:///C:/Users/jepage/Downloads/Leibniz-Newton-final-paper%20(1).pdf)
+
+
