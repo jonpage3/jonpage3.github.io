@@ -12,6 +12,6 @@ It has been a while so I don't entirely remember what the paper is about, but I 
 I have posted the document in various file formats. I began with a markdown version of my document, and converted it to html, odt, by using the following [bash script](https://raw.githubusercontent.com/inls161/assignment-3-convert-some-documents-jonpage3/master/jonpage3-convert-docs.sh)
 
 *  [PDF](https://github.com/inls161/assignment-3-convert-some-documents-jonpage3/raw/master/Leibniz-Newton-final-paper.pdf)  
-*  [HTML](/html)
+*  [HTML](/school/html)
 
 
