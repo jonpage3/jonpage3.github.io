@@ -21,8 +21,10 @@ I have posted the document in various file formats. I began with a [markdown ver
 
 # *Organizing Data*
 
-In my *Tools for Information Literacy Class* we were assigned the task of creating a questionnaire that responds to user input and stores data (a user's answers to the questionnaire) in a database. Working as a team (team1), two of my fellow classmates and yours truly devised the following bash script that generates a CSV file of the answers given by the respondent(s): [CSV bash script](https://raw.githubusercontent.com/healeyj/task-5-database-interface/master/team1questions.sh)
-Then, we amended that script so that when a user finishes the questionnaire, a mysql database is generated to store the user's answers. The information from this database is also stored in a newly created .sql file. Here is that [mysql questionnaire bash script.](https://raw.githubusercontent.com/healeyj/task-5-database-interface/master/team1mysql.sh)   
+In my *Tools for Information Literacy Class* we were assigned the task of creating a questionnaire that responds to user input and stores data (a user's answers to the questionnaire) in a database. Working as a team (team1), two of my fellow classmates and yours truly devised the following bash script that generates a CSV file of the answers given by the respondent(s): [CSV bash script](https://raw.githubusercontent.com/healeyj/task-5-database-interface/master/team1questions.sh).    
 
-So in conclusion, the final script generates a questionnaire, responds to answers given to the questionnaire, and then stores those answers in a CSV file, mysql database and sql file.  
+We then added to the script so that when a user finishes the questionnaire, a mysql database is generated to store the user's answers. The information from this database is also stored in a newly created .sql file. Here is that [mysql questionnaire bash script](https://raw.githubusercontent.com/healeyj/task-5-database-interface/master/team1mysql.sh).   
+
+To sum up, the final script generates a questionnaire, responds to answers given to the questionnaire, and then stores those answers in a CSV file, mysql database and sql file.    
+  
 For more information here is a link to the [github repository](https://github.com/healeyj/task-5-database-interface) for my team's project.
