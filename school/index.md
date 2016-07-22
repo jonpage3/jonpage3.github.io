@@ -28,3 +28,7 @@ We then added to the script so that when a user finishes the questionnaire, a my
 To sum up, the final script generates a questionnaire, responds to answers given to the questionnaire, and then stores those answers in a CSV file, mysql database and sql file.    
   
 For more information here is a link to the [github repository](https://github.com/healeyj/task-5-database-interface) for my team's project.
+
+# *Using reveal.js*
+
+For an assignment in my *Tools for Information Literacy Class* a classmate and I created a presentation using reveal.js. With reveal.js we created an visual and audio presentation of the Aesop fable "Belling the Cat". Here is a [link for your viewing pleasure](https://rabbasi2.github.io/task-6-team-1/index#/).
