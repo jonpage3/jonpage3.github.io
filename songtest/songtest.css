@@ -2,7 +2,8 @@
   
   color: #EE82EE;
   font-family: 'Inconsolata', ;
-  background: $color-seashell1;
+  background: #FFE4C4;
+  text-shadow: 2px 2px 3px black;
 }
 
 #dead-leaves {
@@ -10,7 +11,7 @@
   color: #EE82EE;
   text-shadow: 2px 2px 3px black;
   font-family: 'Inconsolata', ;
-  background: $color-seashell1;
+  background: #FFE4C4;
 }
 
 
@@ -19,7 +20,7 @@
   color: #EE82EE;
   text-shadow: 2px 2px 3px black;
   font-family: 'Inconsolata', ; 
-  background: $color-seashell1;
+  background: #FFE4C4;
 }
 
 
