@@ -1,0 +1,43 @@
+#songs {
+  
+  color: #EE82EE;
+  font-family: sans-serif;
+  background: #FFE4C4;
+  text-shadow: 2px 2px 3px black;
+  text-decoration: underline;
+  text-decoration-color: black; 
+}
+
+#dead-leaves {
+  
+  color: #EE82EE;
+  text-shadow: 2px 2px 3px black;
+  font-family: sans-serif ;
+  background: #FFE4C4;
+}
+
+
+#lessthanaway {
+  
+  color: #EE82EE;
+  text-shadow: 2px 2px 3px black;
+  font-family: sans-serif; 
+  background: #FFE4C4;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
