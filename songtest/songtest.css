@@ -1,7 +1,7 @@
 #songs {
   
   color: #EE82EE;
-  font-family: 'Inconsolata', ;
+  font-family: sans-serif;
   background: #FFE4C4;
   text-shadow: 2px 2px 3px black;
 }
@@ -10,7 +10,7 @@
   
   color: #EE82EE;
   text-shadow: 2px 2px 3px black;
-  font-family: 'Inconsolata', ;
+  font-family: sans-serif ;
   background: #FFE4C4;
 }
 
@@ -19,7 +19,7 @@
   
   color: #EE82EE;
   text-shadow: 2px 2px 3px black;
-  font-family: 'Inconsolata', ; 
+  font-family: sans-serif; 
   background: #FFE4C4;
 }
 
