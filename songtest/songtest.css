@@ -1,20 +1,22 @@
 #songs {
   
-  color: #0000FF;
+  color: #EE82EE;
   font-family: 'Inconsolata', ;
 }
 
 #dead-leaves {
   
-  color: #228B22;
+  color: #EE82EE;
   text-shadow: 2px 2px 3px black;
+  font-family: 'Inconsolata', ;
 }
 
 
 #lessthanaway {
   
-  color: #FFA500;
-  text-shadow: 2px 2px 3px purple;
+  color: #EE82EE;
+  text-shadow: 2px 2px 3px black;
+  font-family: 'Inconsolata', ; 
 }
 
 
