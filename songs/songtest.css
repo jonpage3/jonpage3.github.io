@@ -4,6 +4,7 @@
   font-family: sans-serif;
   background: #FFE4C4;
   text-shadow: 4px 4px 5px #D3D3D3;
+  text-align: center;
 }
 
 
@@ -18,7 +19,7 @@
   font-family: sans-serif;
   background: #FFE4C4;
   text-shadow: 2px 2px 3px black;
-  
+  text-align: center;
 }
 
 #dead-leaves {
