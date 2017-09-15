@@ -3,9 +3,6 @@
 
 - title: about
   url: /me
-
-- title: songs
-  url: https://soundcloud.com/user-229029798
   
 - title: commonplace
   url: /commonplace
@@ -13,7 +10,7 @@
 - title: school
   url: /school
 
-- title: songtest
+- title: songs
   url: /songtest
 
 
