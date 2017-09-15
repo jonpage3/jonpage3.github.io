@@ -6,12 +6,14 @@
 #dead-leaves {
   
   color: #228B22;
+  text-shadow: 2px 2px 3px black;
 }
 
 
 #lessthanaway {
   
-  color: #FFA500
+  color: #FFA500;
+  text-shadow: 2px 2px 3px purple;
 }
 
 
