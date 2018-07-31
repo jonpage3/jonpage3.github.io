@@ -87,6 +87,8 @@ Almighty God, most merciful Father, look down upon me with pity ; Thou hast prot
 We talked of change of manners. Dr Johnson observed, that our drinking less than our ancestors was owing to the change from ale to wine. 'I remember,' said he, 'when all the DECENT people in Lichfield got drunk every night, and were not the worse thought of. Ale was cheap, so you pressed strongly. When a man must bring a bottle of wine, he is not in such haste. Smoking has gone out. To be sure, it is a shocking thing, blowing smoke out of our mouths into other people's mouths, eyes, and noses, and having the same thing done to us. Yet I cannot account, why a thing which requires so little exertion, and yet preserves the mind from total vacuity, should have gone out. Every man has something by which he calms himself: beating with his feet, or so. [Footnote: Dr Johnson used to practice this himself very much.] I remember when people in England changed a shirt only once a week'
 
 
+![trotsky](https://i2.wp.com/www.weloveist.com/wp-content/uploads/leon-trotsky-as-a-young-student.jpg?ssl=1)
+
 
 
 
