@@ -24,7 +24,7 @@ We do not think good metaphors are anything very important, but I think that a g
 
 # Denton Maurice Welch
 
-**from In Youth is Pleasure**
+**from in youth is pleasure**
 
 Once in a field full of buttercups he had trodden in a cow-pat.  He had looked down at his foot which had broken through the hardened outer crust.  It lay in a trough lined with darkest richest green.
 
