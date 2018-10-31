@@ -9,8 +9,8 @@
 - title: school
   url: /school
 
-- title: songs
-  url: /songs/
+  #- title: songs
+  #url: /songs/
   
 - title: games
   url: /games/
