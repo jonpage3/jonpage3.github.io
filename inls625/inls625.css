@@ -13,6 +13,16 @@
 
 }
 
+#tool {
+	color: #FFFFE0;
+	font-family: sans-serif;
+}
+
+#orange {
+	color: #FFA500;
+	font-family: sans-serif;
+}
+
 .center {
         display: block;	
 	margin-left: auto;
