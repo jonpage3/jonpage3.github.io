@@ -14,7 +14,7 @@
 }
 
 #tool {
-	color: #FFFFE0;
+	color: #FFFF00;
 	font-family: sans-serif;
 }
 
@@ -27,8 +27,8 @@
         display: block;	
 	margin-left: auto;
 	margin-right: auto;
-	width: 25%;
-	height: 45%;
+	width: 10%;
+	height: 20%;
 }
 
 #cp {
