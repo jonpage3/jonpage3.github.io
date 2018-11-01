@@ -20,3 +20,9 @@
 	width: 25%;
 	height: 45%;
 }
+
+#cp {
+	font-family: sans-serif;
+	color: #BC8F8F;
+	text-shadow: 4px 4px 5px #D3D3D3;
+}
