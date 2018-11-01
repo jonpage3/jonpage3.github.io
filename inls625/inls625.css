@@ -27,7 +27,10 @@
 	text-shadow: 4px 4px 5px #D3D3D3;
 }
 
-.footer {
-	background-color: #FFF0F5;
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:#6cf;
 }
-
