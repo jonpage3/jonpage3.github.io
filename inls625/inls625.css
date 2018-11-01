@@ -37,6 +37,10 @@
 	text-shadow: 4px 4px 5px #D3D3D3;
 }
 
+#home {
+	color: red;
+}
+
 #footer {
    position:absolute;
    bottom:0;
