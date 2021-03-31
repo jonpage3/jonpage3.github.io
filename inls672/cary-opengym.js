@@ -28,7 +28,7 @@ async function loadData() {
         });
 
         let selectOptions = document.querySelector('#activity');
-        selectOptions.innerHTML = featureOptions;
+        selectOptions.innerHTML = activityOptions;
       } catch (error) {
         console.log(error);
       }
