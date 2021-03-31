@@ -1,6 +1,6 @@
 
 let findButton = document.querySelector('#findGyms');
-findButton.addEventListener('click', getParks);
+//findButton.addEventListener('click', getGyms);
 
 var obj;
 
@@ -33,4 +33,6 @@ async function loadData() {
         console.log(error);
       }
 }
+
+
 
