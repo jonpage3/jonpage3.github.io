@@ -1,0 +1,16 @@
+#controls { margin-left: 4em; }
+select {
+    font-size: 1em;
+    margin: 0;
+    padding: .313em .625em;
+    border-radius: .438em;
+}
+button {
+    font-size: 1em;
+    color: white;
+    background: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    border-radius: .438em;
+    margin-left: 2em;
+    padding: .313em .938em;
+}
