@@ -9,7 +9,7 @@ loadData();
 async function loadData() {
     let url = ' https://data.townofcary.org/api/v2/catalog/datasets/open-gym/exports/json ';
     try {
-        let response = await fetch(url)};
+        let response = await fetch(url);
         obj = await response.json();
         console.log(obj);
 
@@ -31,5 +31,6 @@ async function loadData() {
         selectOptions.innerHTML = featureOptions;
       } catch (error) {
         console.log(error);
+      }
 }
 
