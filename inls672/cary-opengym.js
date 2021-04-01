@@ -56,7 +56,7 @@ function showDetails(facility_title, location, address, postal) {
      details = `<h4>${facility_title}</a></h4>
                 <p class="desc">${location}</p>
                 <p class="desc">${address}</p>
-                <p class="desc">${postal}</p>;`
+                <p class="desc">${postal}</p>`
      document.querySelector('#details').innerHTML = details;
 }
 
