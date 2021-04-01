@@ -42,10 +42,10 @@ function getGyms() {
 
     obj.forEach(gym => {
         if (gym.open_gym == activity.value) {
-            let gymData = `<li class="gymname" onclick="showDetails('${gym.facility_title}','${gym.location}','${gym.address11}','${gym.postal_code1}')">${gym.facility_title}</li>`;
+            let gymData = `<li class="gymname" onclick="showDetails('${gym.facility_title}','${gym.location}','${gym.address11}','${gym.postal_code1}')">${gym.facility_title} (${gym.location})</li>`;
             if (!gymList.includes(gymData)) {
                 gymList += gymData;
-            } 
+            }
         }
     });
 
