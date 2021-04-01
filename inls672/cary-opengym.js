@@ -35,6 +35,7 @@ async function loadData() {
 }
 
 function getGyms() {
+    // clears details section
     document.querySelector('#details').innerHTML = "";
 
     let gymList = '<ul>';
@@ -42,7 +43,9 @@ function getGyms() {
     obj.forEach(gym => {
         if (gym.open_gym == activity.value) {
             let gymData = `<li class="gymname" onclick="showDetails('${gym.facility_title}','${gym.location}','${gym.address11}','${gym.postal_code1}')">${gym.facility_title}</li>`;
-            gymList += gymData;
+            if (!gymList.includes(gymData)) {
+                gymList += gymData;
+            } 
         }
     });
 
