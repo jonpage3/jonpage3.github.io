@@ -1,6 +1,6 @@
 
 let findButton = document.querySelector('#findGyms');
-//findButton.addEventListener('click', getGyms);
+findButton.addEventListener('click', getGyms);
 
 var obj;
 
@@ -34,5 +34,29 @@ async function loadData() {
       }
 }
 
+function getGyms() {
+    document.querySelector(#details).innerHTML = "";
 
+    let gymList = '<ul>';
+
+    obj.forEach(gym => {
+        if (gym.open_gym == activity.value) {
+            let gymData = `<li class="gymname" onclick="showDetails('${gym.facility_title}','${gym.location}','${gym.address11}','${gym.postal_code1}')">${gym.facility_title}</li>`;
+            gymList += gymData;
+        }
+    });
+
+    gymList += '</ul>';
+
+    let selectedGyms = document.querySelector('#gymlist');
+    selectedGyms.innerHTML = gymList;
+}
+
+function showDetails(facility_title, location, address, postal) {
+     details = `<h4>${facility_title}</a></h4>
+                <p class="desc">${location}</p>
+                <p class="desc">${address}</p>
+                <p class="desc">${postal}</p>;`
+     document.querySelector('#details').innerHTML = details;
+}
 

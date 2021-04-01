@@ -4,7 +4,6 @@
 }
 
 
-
 #controls { margin-left: 4em; }
 select {
     font-size: 1em;
@@ -20,4 +19,33 @@ button {
     border-radius: .438em;
     margin-left: 2em;
     padding: .313em .938em;
+}
+
+#wrapper {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+}
+
+#gymlist {
+  color: var(--primary-color);
+  margin: 2em;
+}
+h4 {
+  margin-top: 3em;
+}
+ul { list-style: none; }
+li {margin: .6em;}
+a {color: var(--primary-color);
+   font-weight: bold;
+   text-decoration: none;
+}
+
+#details {
+ 	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ }
+.desc {
+    margin: .2em;
 }
