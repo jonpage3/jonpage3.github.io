@@ -6,7 +6,10 @@
 html {
 font-family: Helvetica, sans-serif;
 }
-
+section {
+  margin: 0;
+  padding: 0;
+}
 header {
   font-size: 3.0em;
   font-weight: bold;
@@ -58,7 +61,15 @@ a {color: var(--primary-color);
  	display: flex;
  	flex-direction: column;
  	align-items: center;
- }
+}
 .desc {
     margin: .2em;
 }
+
+/* Row orientation for wider screen  */
+@media (min-width: 43.750em) {
+   #wrapper {
+      flex-direction: row;
+   }
+}
+
