@@ -35,7 +35,7 @@ async function loadData() {
 }
 
 function getGyms() {
-    document.querySelector(#details).innerHTML = "";
+    document.querySelector('#details').innerHTML = "";
 
     let gymList = '<ul>';
 
