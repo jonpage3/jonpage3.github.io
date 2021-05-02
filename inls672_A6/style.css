@@ -1,13 +1,13 @@
 /* General style rules for entire page  */
 :root {
-   --primary-color: #8B008B;
-   --secondary-color: #8B0000;
+   --primary-color:  #191970;
+   --secondary-color: #4169e1;
 }
 
 
 html {
 font-family: Helvetica, sans-serif;
-background: #FFF0F5;
+background: #FFE5B4;
 }
 
 header {
@@ -21,7 +21,11 @@ header {
   text-align: center;
 }
 
-#controls { margin-left: 4em; }
+#controls {
+   display: flex;
+   justify-content: center;
+   margin: .5em
+}
 select {
     font-size: 1em;
     margin: 0;
