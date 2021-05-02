@@ -15,7 +15,7 @@
         method: 'GET',
         headers: {
         'User-Agent': 'v2RecentSearchJS',
-        "authorization": `Bearer $AAAAAAAAAAAAAAAAAAAAAN6KPAEAAAAA9rJ4yD69M%2BcgEccryVuc2JV03LQ%3Djh95pbHpWhV5rxecur1UROGBV9qVXGhHCskmcIzlGXRNlBT8mH
+        "Authorization": `Bearer $AAAAAAAAAAAAAAAAAAAAAN6KPAEAAAAA9rJ4yD69M%2BcgEccryVuc2JV03LQ%3Djh95pbHpWhV5rxecur1UROGBV9qVXGhHCskmcIzlGXRNlBT8mH
         }
         });
 
