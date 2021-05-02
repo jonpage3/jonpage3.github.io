@@ -25,10 +25,11 @@ function getWeather() {
 
   //obj.response.docs.forEach(town => {
     let weatherData = `<section>
-                          <h2>${obj.name}</h2>
+                          <h2 onclick="townMap('${obj.coord.lat}','${obj.coord.lon}')">${obj.name}, ${obj.sys.country}</h2>
                           <h4>current temperature: ${obj.main.temp} Fahrenheit</h4>
-                          <h5>but feels like... ${obj.main.feels_like}</h5>
-                          <h4>max temperature: ${obj.main.temp_max}  Fahrenheit</h4>
+                          <h5>but it feels like... ${obj.main.feels_like}</h5>
+                          <h4>today&#x27s max: ${obj.main.temp_max}  Fahrenheit</h4>
+                          <section id="map"></section>
 
                        </section>`;
   //});
@@ -37,3 +38,18 @@ function getWeather() {
   weather_display.innerHTML = weatherData;
 
 }
+
+function townMap(lat, lon) {
+      var mymap = L.map('map').setView([lat, lon], 13);
+      mymap.setView([lat, lon], 13);
+      L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 18,
+        id: 'mapbox/streets-v11',
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken: 'your.mapbox.access.token'
+   } ).addTo(mymap);
+
+   L.marker([lat, lon]).addTo(mymap);
+ }
