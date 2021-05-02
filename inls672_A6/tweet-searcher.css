@@ -1,0 +1,22 @@
+/* General style rules for entire page  */
+:root {
+   --primary-color: indigo;
+   --secondary-color: whitesmoke;
+}
+
+
+html {
+font-family: Helvetica, sans-serif;
+background: #FFF0F5;
+}
+
+header {
+  font-size: 3.0em;
+  font-weight: bold;
+  color: var(--secondary-color);
+  text-shadow: 4px 4px 5px #D3D3D3;
+  margin: 2em;
+  padding-bottom: 1em;
+  border-bottom: var(--secondary-color) solid .07em;
+  text-align: center;
+}
