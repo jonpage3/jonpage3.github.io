@@ -29,6 +29,8 @@ function getWeather() {
                           <h4>current temperature: ${obj.main.temp} Fahrenheit</h4>
                           <h5>but it feels like... ${obj.main.feels_like}</h5>
                           <h4>today&#x27s max: ${obj.main.temp_max}  Fahrenheit</h4>
+                          <div id="center"><button id="keyword-button" onclick="displayInfo('${obj.weather[0].description}','${obj.wind.speed}')">Weather Info</button></div>
+                          <section id="details"></section>
                           <section id="map"></section>
 
                        </section>`;
@@ -38,6 +40,15 @@ function getWeather() {
   weather_display.innerHTML = weatherData;
 
 }
+
+function displayInfo(weather_descr,wind_speed) {
+  let wordCloud = document.querySelector('#details');
+  details = `<span class="detail">${weather_descr}</span>
+             <span class="detail">Wind speed: ${wind_speed} mph</span>`
+  detailslist = '<div class="cloud">' + details + '</div>';
+  wordCloud.innerHTML = detailslist;
+}
+
 
 function townMap(lat, lon) {
       var mymap = L.map('map').setView([lat, lon], 13);

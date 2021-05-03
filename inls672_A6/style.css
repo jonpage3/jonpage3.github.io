@@ -63,7 +63,34 @@ h5 {
    font-style: italic;
  }
 
-
+#keyword-button {
+ text-align: center;
+ font-family: Helvetica, sans-serif;
+ margin: .5em
+ font-size: 1em;
+ color: white;
+ background: var(--primary-color);
+ border: 1px solid var(--primary-color);
+ border-radius: .438em;
+ margin-left: 2em;
+ padding: .313em .938em;
+}
+.cloud {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1em;
+  justify-content: space-around;
+}
+/* Style rules for each keyword in the cloud */
+.detail {
+  font-size: 2em;
+  padding: .9em;
+  margin: .3em;
+  background: #99BADD;
+  color: white;
+  border: darkgray solid .05em;
+  border-radius: .5em;
+}
 #map {
    width: 31.25em;
    height: 23.75em;
