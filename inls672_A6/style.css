@@ -42,6 +42,25 @@ button {
     padding: .313em .938em;
 }
 
+#town_info {
+   text-align: center;
+   margin: .5em
+}
+h2 {
+text-decoration: underline
+}
+
+h4 {
+  color: var(--primary-color);
+}
+
+
+.townname:hover {
+   color: var(--secondary-color);
+   font-style: italic;
+ }
+
+
 #map {
    width: 31.25em;
    height: 23.75em;

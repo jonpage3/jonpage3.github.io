@@ -23,16 +23,16 @@ async function loadWeather() {
 
 function getWeather() {
 
-  //obj.response.docs.forEach(town => {
-    let weatherData = `<section>
-                          <h2 onclick="townMap('${obj.coord.lat}','${obj.coord.lon}')">${obj.name}, ${obj.sys.country}</h2>
+
+    let weatherData = `<section id="town_info">
+                          <h2 class="townname" onclick="townMap('${obj.coord.lat}','${obj.coord.lon}')">${obj.name}, ${obj.sys.country}</h2>
                           <h4>current temperature: ${obj.main.temp} Fahrenheit</h4>
                           <h5>but it feels like... ${obj.main.feels_like}</h5>
                           <h4>today&#x27s max: ${obj.main.temp_max}  Fahrenheit</h4>
                           <section id="map"></section>
 
                        </section>`;
-  //});
+
 
   let weather_display = document.querySelector('#weather-details');
   weather_display.innerHTML = weatherData;
