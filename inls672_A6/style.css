@@ -53,7 +53,10 @@ text-decoration: underline
 h4 {
   color: var(--primary-color);
 }
-
+h5 {
+  color: #FF69B4;
+  font-style: italic;
+}
 
 .townname:hover {
    color: var(--secondary-color);
