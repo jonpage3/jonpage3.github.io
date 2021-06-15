@@ -2,19 +2,19 @@
 
 - title: about
   url: /me
-  
+
 - title: commonplace
   url: /commonplace
-  
+
 - title: school
   url: /school
 
   #- title: songs
   #url: /songs/
-  
+
 - title: games
   url: /games/
-  
+
 - title: inls625
   url: /inls625
 
@@ -23,3 +23,8 @@
 
 - title: inls672_A6
   url: /inls672_A6
+
+- title: javascript_practice
+  url: /javascript_practice
+
+  
