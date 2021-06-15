@@ -23,8 +23,8 @@ elTiles.textContent = tiles;
 var elSubTotal = document.getElementById('subTotal');
 elSubTotal.textContent = '$' + subTotal;
 
-var elSubTotal = document.getElementById('shipping');
-elSubTotal.textContent = '$' + shipping;
+var elShipping = document.getElementById('shipping');
+elShipping.textContent = '$' + shipping;
 
 var elGrandTotal = document.getElementById('grandTotal');
 elGrandTotal.textContent = '$' + grandTotal;
