@@ -20,7 +20,7 @@ elSign.textContent = sign;
 var elTiles = document.getElementById('tiles');
 elTiles.textContent = tiles;
 
-var elSubTotal = document.getElementByid('subTotal');
+var elSubTotal = document.getElementById('subTotal');
 elSubTotal.textContent = '$' + subTotal;
 
 var elSubTotal = document.getElementById('shipping');
